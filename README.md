@@ -15,12 +15,12 @@ Table 1 summarizes all the results as of Nov. 2018.<sup>[10]</sup>
 
 <p align="center">
   <a href="https://github.com/Charmve">
-    <img src="https://img.shields.io/badge/Github-Charmve-blue" alt="github">
+    <img src="https://img.shields.io/badge/Github-Charmve-blue" alt="github" logo="github">
   </a>
   <a href="https://github.com/Charmve/jsFlow">
     <img src="https://img.shields.io/badge/👓-jsFlow-yellow" alt="jsFlow">
   </a>
-  <a href="https://github.com/pybluez/pybluez/actions?query=workflow%3ABuild">
+  <a href="https://github.com/Charmve/jsFlow/pulls">
     <img alt="Build Status" src="https://github.com/pybluez/pybluez/workflows/Build/badge.svg">
   </a>
 </p>
