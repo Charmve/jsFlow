@@ -1,3 +1,8 @@
+<div align=center>
+  <img src="./img/JSFlow.jpg">
+</div>
+
+
 # Moving Deep Learning into Web Browser<br>How Far Can We Go?
 
 <div align=center>
