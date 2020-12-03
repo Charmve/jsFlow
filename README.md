@@ -5,10 +5,10 @@ a Lightweight Web Browser-based Machine Learning Framework
 # Moving Deep Learning into Web Browser: How Far Can We Go?
 
 <div align=center>
-  <img src="https://quip.com/AifOA3E7WEFy#NBKACAXBFth">
+  <img src="./img/image.png">
 </div>
 
-Table 1 summarizes all the results as of Nov. 2018.
+Table 1 summarizes all the results as of Nov. 2018.<sup>[10]</sup>
  
 
 # Reference
