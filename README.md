@@ -1,3 +1,14 @@
+
+# Moving Deep Learning into Web Browser<br>How Far Can We Go?
+
+<div align=center>
+  <img src="./img/image.png">
+</div>
+
+Table 1 summarizes all the results as of Nov. 2018.<sup>[10]</sup>
+
+<br>
+
 <div align=center>
   <img src="./img/JSFlow.jpg">
 </div>
@@ -13,15 +24,6 @@
     <img alt="Build Status" src="https://github.com/pybluez/pybluez/workflows/Build/badge.svg">
   </a>
 </p>
-
-# Moving Deep Learning into Web Browser<br>How Far Can We Go?
-
-<div align=center>
-  <img src="./img/image.png">
-</div>
-
-Table 1 summarizes all the results as of Nov. 2018.<sup>[10]</sup>
-
 
 # jsFlow
 a Lightweight Web Browser-based Machine Learning Framework
