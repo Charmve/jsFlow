@@ -1,7 +1,3 @@
-# jsFlow
-a Lightweight Web Browser-based Machine Learning Framework
-
-
 # Moving Deep Learning into Web Browser<br>How Far Can We Go?
 
 <div align=center>
@@ -9,7 +5,14 @@ a Lightweight Web Browser-based Machine Learning Framework
 </div>
 
 Table 1 summarizes all the results as of Nov. 2018.<sup>[10]</sup>
- 
+
+
+# jsFlow
+a Lightweight Web Browser-based Machine Learning Framework
+
+<div align=center>
+  <img src="./img/comming_soon.png">
+</div>
 
 # Reference
 
