@@ -2,8 +2,7 @@
 a Lightweight Web Browser-based Machine Learning Framework
 
 
-# <center>Moving Deep Learning into Web Browser</center>
-# <center>How Far Can We Go?</center>
+# Moving Deep Learning into Web Browser<br>How Far Can We Go?
 
 <div align=center>
   <img src="./img/image.png">
