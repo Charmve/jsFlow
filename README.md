@@ -6,8 +6,8 @@
   <a href="https://github.com/Charmve">
     <img src="https://img.shields.io/badge/Github-Charmve-blue" alt="github">
   </a>
-  <a href="https://github.com/Charmve/Mirror-Glass-Detection">
-    <img src="https://img.shields.io/badge/👓-Glass%20Detect-yellow" alt="Charmve">
+  <a href="https://github.com/Charmve/jsFlow">
+    <img src="https://img.shields.io/badge/👓-jsFlow-yellow" alt="jsFlow">
   </a>
   <a href="https://github.com/pybluez/pybluez/actions?query=workflow%3ABuild">
     <img alt="Build Status" src="https://github.com/pybluez/pybluez/workflows/Build/badge.svg">
