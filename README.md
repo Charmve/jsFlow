@@ -1,5 +1,5 @@
 
-# Moving Deep Learning into Web Browser<br> How Far Can We Go 🐾 ?
+# Moving Deep Learning into Web Browser<br> How Far Can We Go? 🐾 
 
 <div align=center>
   <img src="./img/image.png">
