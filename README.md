@@ -64,4 +64,4 @@ a Lightweight Web Browser-based Machine Learning Framework
 
 [17] Embedding Machine Learning Models to Web Apps (Part-1) https://towardsdatascience.com/embedding-machine-learning-models-to-web-apps-part-1-6ab7b55ee428
 
-[18] 基于浏览器的深度学习 [Deep Learning in the Browser] [法] 泽维尔·布里（Xavier Bourry） 著，侠天，易乐天 译. 机械工业出版社 ISBN：9787111629405
+[18] Xavier Bourry, Kai Sasaki, Christoph Körner, Reiichiro Nakano. 2018. Deep Learning in the Browser. ISBN 978-1-939902-54-2.
