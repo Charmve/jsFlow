@@ -11,6 +11,8 @@ Table 1. summarizes all the results as of Nov. 2018.<sup>[11]</sup>
   <img src="./img/compare_figure.png">
 </div>
 
+****
+
 <br>
 
 <div align=center>
