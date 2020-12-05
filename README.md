@@ -7,7 +7,6 @@
 
 Table 1. summarizes all the results as of Nov. 2018.<sup>[11]</sup>
 
-<br>
 <div align=center>
   <img src="./img/compare_figure.png">
 </div>
