@@ -42,7 +42,7 @@ a Lightweight Web Browser-based Machine Learning Framework
 
 [6] 2020. TensorFlow.js. https://www.tensorflow.org/js/
 
-[7] TensorFlow.js https://mp.weixin.qq.com/mp/appmsgalbum?biz=MzU1OTMyNDcxMQ==&action=getalbum&album_id=1338140687686254592 (in Chinese)
+[7] 2020. TensorFlow.js Application Case. https://mp.weixin.qq.com/mp/appmsgalbum?biz=MzU1OTMyNDcxMQ==&action=getalbum&album_id=1338140687686254592 (in Chinese)
 
 [8] 2020. MIL WebDNN Benchmark. https://mil-tokyo.github.io/webdnn/#benchmar.
 
