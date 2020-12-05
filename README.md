@@ -5,7 +5,12 @@
   <img src="./img/image.png">
 </div>
 
-Table 1 summarizes all the results as of Nov. 2018.<sup>[11]</sup>
+Table 1. summarizes all the results as of Nov. 2018.<sup>[11]</sup>
+
+<br>
+<div align=center>
+  <img src="./img/compare_figure.png">
+</div>
 
 <br>
 
@@ -36,7 +41,11 @@ a Lightweight Web Browser-based Machine Learning Framework
 
 [1] 2020. brain.js. https://github.com/BrainJS.
 
-[4] 2020. ConvNetJS. https://cs.stanford.edu/people/karpathy/convnetjs/.
+[2] 2020. Apache Singa. https://singa.apache.org
+
+[3] 2020. Apache Mahout. https://mahout.apache.org
+
+[4] 2020. Microsoft Cognitive Toolkit. https://docs.microsoft.com/en-us/cognitive-toolkit/
 
 [5] 2020. Keras.js. https://github.com/transcranial/keras-js.
 
