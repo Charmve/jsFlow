@@ -34,6 +34,7 @@ Table 1. summarizes all the results as of Nov. 2018.<sup>[11]</sup>
 # jsFlow
 a Lightweight Web Browser-based Machine Learning Framework
 
+<br>
 <div align=center>
   <img src="./img/comming_soon.png" width="300px">
 </div>
