@@ -76,3 +76,5 @@ a Lightweight Web Browser-based Machine Learning Framework
 [17] Embedding Machine Learning Models to Web Apps (Part-1) https://towardsdatascience.com/embedding-machine-learning-models-to-web-apps-part-1-6ab7b55ee428
 
 [18] Xavier Bourry, Kai Sasaki, Christoph Körner, Reiichiro Nakano. 2018. Deep Learning in the Browser. ISBN 978-1-939902-54-2.
+
+[19] Tengine. https://github.com/OAID/Tengine
