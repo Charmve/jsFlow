@@ -78,3 +78,5 @@ a Lightweight Web Browser-based Machine Learning Framework
 [18] Xavier Bourry, Kai Sasaki, Christoph Körner, Reiichiro Nakano. 2018. Deep Learning in the Browser. ISBN 978-1-939902-54-2.
 
 [19] Tengine. https://github.com/OAID/Tengine
+
+[20] NanoDet. RangiLyu. GitHub repository. https://github.com/RangiLyu/nanodet  [📑[paper]() | <img src="https://img.icons8.com/material-sharp/24/000000/github.png" alt="Github" width="22px"/>[code](https://github.com/RangiLyu/nanodet) | 🍅[demo](https://nihui.github.io/ncnn-webassembly-nanodet/)]
