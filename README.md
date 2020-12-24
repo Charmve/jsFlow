@@ -39,6 +39,12 @@ a Lightweight Web Browser-based Machine Learning Framework
   <img src="./img/comming_soon.png" width="300px">
 </div>
 
+## 🍮 Community
+- Github <a href="https://github.com/Charmve/jsFlow/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/jsFlow/issues" target="_blank">issues 💭</a>
+
+- QQ Group: 697948168 (password：jsFlow)
+- Email: yidazhang#gmail.com 
+
 # Reference
 
 [1] 2020. brain.js. https://github.com/BrainJS.
