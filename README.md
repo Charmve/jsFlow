@@ -45,7 +45,7 @@ a Lightweight Web Browser-based Machine Learning Framework
 - QQ Group: 697948168 (password：jsFlow)
 - Email: yidazhang#gmail.com 
 
-# Reference
+## 🔗 Reference
 
 [1] 2020. brain.js. https://github.com/BrainJS.
 
