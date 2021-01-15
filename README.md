@@ -39,6 +39,14 @@ a Lightweight Web Browser-based Machine Learning Framework
   <img src="./img/comming_soon.png" width="300px">
 </div>
 
+## 🔔 Update Reminder
+
+[Subscribe -->](https://github.com/Charmve/jsFlow/edit/main/README.md)
+
+If you like what I do, maybe consider buying me a ☕ coffee/tea 🥺👉👈  
+
+<a href="https://www.buymeacoffee.com/Charmve" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 ## 🍮 Community
 - Github <a href="https://github.com/Charmve/jsFlow/discussions" target="_blank">discussions 💬</a> or <a href="https://github.com/Charmve/jsFlow/issues" target="_blank">issues 💭</a>
 
