@@ -16,13 +16,11 @@ Table 1. summarizes all the results as of Nov. 2018.<sup>[11]</sup>
 <br>
 
 <div align=center>
-  <img src="./img/JSFlow-logo.png">
+  <img src="./img/JSFlow-logo.png" width="180">
 </div>
 
 <p align="center">
-  <a href="https://github.com/Charmve">
-    <img src="https://img.shields.io/badge/GitHub-Charmve-blue" alt="github" logo="github">
-  </a>
+  <a href="https://github.com/Charmve"><img src="https://img.shields.io/badge/GitHub-@Charmve-000000.svg?logo=GitHub" alt="GitHub" target="_blank"></a>
   <a href="https://github.com/Charmve/jsFlow">
     <img src="https://img.shields.io/badge/👓-jsFlow-yellow" alt="jsFlow">
   </a>
@@ -43,7 +41,7 @@ A Lightweight Web Browser-based Machine Learning Framework
 
 ## Online Demos
 
-- [Convolutional Neural Network on CIFAR-10](https://charmve.github.io/jsFlow/index.html) [L0CV](https://charmve.github.io/L0CV-web/)
+- [Convolutional Neural Network on CIFAR-10](https://charmve.github.io/jsFlow/index.html), one of my applications, [L0CV](https://charmve.github.io/L0CV-web/).
 
 ![CIFAR-10][CIFAR-10]
 
